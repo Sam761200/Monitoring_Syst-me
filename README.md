@@ -22,7 +22,7 @@ Un système de monitoring en temps réel écrit en Rust pour collecter et survei
 ### Compilation
 
 ```bash
-git clone <votre-repo>
+git clone https://github.com/Sam761200/Monitoring_Syst-me.git
 cd Monitoring
 cargo build --release
 ```
